@@ -4,7 +4,7 @@
 
 Submitted by: **Cameron Salisbury**
 
-**Color Change ** is an app that... [ changes the color of the screen when the user clicks on it and it also displays my name, school, and future job aspiration] 
+Color Change is an app that changes the color of the screen when the user clicks on it and it also displays my name, school, and future job aspiration.
 
 Time spent: **1** hours spent in total
 
